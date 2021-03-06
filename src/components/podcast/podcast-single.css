@@ -1,0 +1,26 @@
+.podcast-card {
+  background-color: rgba(0, 0, 0, 0.027) !important;
+}
+
+.podcast-icon-container {
+  display: flex;
+  justify-content: center;
+  color: #9e5156;
+  margin-top: -5px;
+}
+
+.on-podcast-source {
+  border-bottom: 3px solid #d17f82;
+  padding-bottom: 3px;
+  margin-top: 8px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.on-podcast-title {
+  -webkit-line-clamp: 5 !important;
+}
+
+.on-podcast-text {
+  -webkit-line-clamp: 8 !important;
+}

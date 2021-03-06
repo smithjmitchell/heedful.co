@@ -1,0 +1,16 @@
+.events-background {
+  background-color: #344955;
+  position: relative;
+  padding: 0 0 25px 0;
+}
+
+.events-background::before {
+  background: inherit;
+  position: absolute;
+  content: "";
+  height: 100%;
+  width: 100vw;
+  left: 50%;
+  margin-left: -50vw;
+  z-index: -1;
+}

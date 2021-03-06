@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+$navbar-background-color: #344955;
+$navbar-item-hover-background-color: #9e5156;
+$navbar-item-active-background-color: #9e5156;
+$navbar-item-focus-background-color: #9e5156;
+
+$navbar-item-color: white;
+$navbar-item-hover-color: white;
+$navbar-item-active-color: white;
+$navbar-item-focus-color: white;
+
+$footer-background-color: #344955;
+$footer-color: white;
+
+@import "~bulma/bulma.sass";

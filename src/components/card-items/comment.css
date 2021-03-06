@@ -1,0 +1,8 @@
+.comment-icon {
+  position: absolute;
+  margin-top: 2px;
+}
+
+.comment-icon > a:hover {
+  color:  #d77c86;
+}
