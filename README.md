@@ -1,9 +1,6 @@
 # Heedful.co
-_Gatsby application for aggregating financial news content and discussions_
-
-## Usage
-_Backend / news API consumption is not available within this repo_
-_.env keys required for MongoDB_
+_Gatsby application for aggregating financial news content and discussions_<br />
+_Front-end components only in this repo_
 
 ### Notes
 * gatsby-config.js and associated GraphQL queries will need to be updated for your persistent layer configuration
